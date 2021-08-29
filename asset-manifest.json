@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-axios/static/css/main.3910e510.chunk.css",
+    "main.js": "/React-axios/static/js/main.e94a432b.chunk.js",
+    "main.js.map": "/React-axios/static/js/main.e94a432b.chunk.js.map",
+    "runtime-main.js": "/React-axios/static/js/runtime-main.a86889f1.js",
+    "runtime-main.js.map": "/React-axios/static/js/runtime-main.a86889f1.js.map",
+    "static/js/2.9d8cd915.chunk.js": "/React-axios/static/js/2.9d8cd915.chunk.js",
+    "static/js/2.9d8cd915.chunk.js.map": "/React-axios/static/js/2.9d8cd915.chunk.js.map",
+    "index.html": "/React-axios/index.html",
+    "static/css/main.3910e510.chunk.css.map": "/React-axios/static/css/main.3910e510.chunk.css.map",
+    "static/js/2.9d8cd915.chunk.js.LICENSE.txt": "/React-axios/static/js/2.9d8cd915.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a86889f1.js",
+    "static/js/2.9d8cd915.chunk.js",
+    "static/css/main.3910e510.chunk.css",
+    "static/js/main.e94a432b.chunk.js"
+  ]
+}
